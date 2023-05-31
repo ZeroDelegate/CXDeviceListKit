@@ -1,0 +1,6 @@
+framework module Pods_CXDeviceListKit_Tests {
+  umbrella header "Pods-CXDeviceListKit_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

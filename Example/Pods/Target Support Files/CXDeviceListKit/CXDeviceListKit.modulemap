@@ -1,0 +1,6 @@
+framework module CXDeviceListKit {
+  umbrella header "CXDeviceListKit-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,23 @@
+PODS:
+  - CXCommonKit (0.1.1)
+  - CXDeviceListKit (0.1.0)
+
+DEPENDENCIES:
+  - CXCommonKit
+  - CXDeviceListKit (from `../`)
+
+SPEC REPOS:
+  https://github.com/ZeroDelegate/CXCommonSpec.git:
+    - CXCommonKit
+
+EXTERNAL SOURCES:
+  CXDeviceListKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CXCommonKit: 61c6285e7f3959f32da8b1013edf136ff9fa8293
+  CXDeviceListKit: a1a35fb70729deb1b36f09a163949aee391567d7
+
+PODFILE CHECKSUM: 3f0e842206fb51ec05a8932403c27a80778e6843
+
+COCOAPODS: 1.11.3
